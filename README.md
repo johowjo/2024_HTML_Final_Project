@@ -1,2 +1,1 @@
-Jo How Jo is GOD
-Jo How Jo is SIGMA
+# HTML 2024 Fall final project by team kessoku band
